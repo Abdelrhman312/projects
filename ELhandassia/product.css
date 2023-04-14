@@ -1,0 +1,14 @@
+td { 
+font-weight: 400;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    margin: 0;
+    font-family: AppleSystemUIFont;
+    font-size: 20px;
+    color: rgb(134, 13, 13);
+    letter-spacing: 0vw;
+    text-align: center;
+    line-height: 28px;
+    background-image: linear-gradient(136deg, rgb(51, 66, 68) 0%, rgb(13, 155, 143) 67%, rgb(55, 242, 249) 100%);
+    border-radius: 4px;
+    padding: 2px 8px;}
